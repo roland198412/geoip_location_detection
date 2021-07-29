@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="20">
+            <item index="0" class="java.lang.String" itemvalue="dnspython" />
+            <item index="1" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="2" class="java.lang.String" itemvalue="six" />
+            <item index="3" class="java.lang.String" itemvalue="PyInstaller" />
+            <item index="4" class="java.lang.String" itemvalue="exchangelib" />
+            <item index="5" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="6" class="java.lang.String" itemvalue="cffi" />
+            <item index="7" class="java.lang.String" itemvalue="cryptography" />
+            <item index="8" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="9" class="java.lang.String" itemvalue="dis3" />
+            <item index="10" class="java.lang.String" itemvalue="requests" />
+            <item index="11" class="java.lang.String" itemvalue="pefile" />
+            <item index="12" class="java.lang.String" itemvalue="Pygments" />
+            <item index="13" class="java.lang.String" itemvalue="future" />
+            <item index="14" class="java.lang.String" itemvalue="macholib" />
+            <item index="15" class="java.lang.String" itemvalue="ntlm-auth" />
+            <item index="16" class="java.lang.String" itemvalue="lxml" />
+            <item index="17" class="java.lang.String" itemvalue="pytz" />
+            <item index="18" class="java.lang.String" itemvalue="urllib3" />
+            <item index="19" class="java.lang.String" itemvalue="idna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
